@@ -2,6 +2,7 @@
 
 <div align="center">
 
+![alt text](gif/final.gif)
 
 </div>
 
