@@ -1,19 +1,12 @@
 ### Hello there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
-
-![alt text](gif/final.gif)
-
+<img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/knyTEfDR9Bi341uzJz/giphy.gif">
 </div>
 
 </br>
 </br>
-
-
-
-
-
-
+</br>
 
 
 
