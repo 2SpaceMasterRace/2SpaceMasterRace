@@ -1,7 +1,7 @@
 ### Hello there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
-![Alt Text](src="https://media.giphy.com/media/knyTEfDR9Bi341uzJz/giphy.gif")
+![](https://media.giphy.com/media/knyTEfDR9Bi341uzJz/giphy.gif)
 
 </div>
 
