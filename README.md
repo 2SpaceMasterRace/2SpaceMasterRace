@@ -1,4 +1,6 @@
-### Oya  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">\
+### Oya  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+</br>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/knyTEfDR9Bi341uzJz/giphy.gif">
