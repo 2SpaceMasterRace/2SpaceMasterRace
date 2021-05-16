@@ -70,6 +70,8 @@ Make yourself at home, nothing much to see here *( I consider this as art , so f
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="120" hight="60"> &nbsp;
 
 </br>
+
+<!-- Do you really need things below this comment ? -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
