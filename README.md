@@ -53,13 +53,13 @@ Make yourself at home, nothing much to see here *( I consider this as an art pie
 
 
 
-    *  🏃 weight training 
+      🏃 weight training 
 
 </br>
 
 
 
-    *  🛫 discovery flights
+      🛫 discovery flights
 
 </br>
 
@@ -71,21 +71,21 @@ Make yourself at home, nothing much to see here *( I consider this as an art pie
 
 
 
-    *  🥾 urban exploration 
+      🥾 urban exploration 
 
 
 </br>
 
 
 
-    *  🎷 saxophone 
+      🎷 saxophone 
 
 
 </br>
 
 
 
-    *  🥞 cooking
+      🥞 cooking
 
 
 </br>
