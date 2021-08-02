@@ -92,7 +92,6 @@ Make yourself at home, nothing much to see here *( I consider this as contempora
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="120" hight="60"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="120" hight="60"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="120" hight="60"> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" width="120" hight="60"> &nbsp;
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="110" hight="80"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="140" hight="80"> &nbsp;
@@ -100,7 +99,6 @@ Make yourself at home, nothing much to see here *( I consider this as contempora
 <img src="https://camo.githubusercontent.com/99d898c8b4c15d5222488237df9803ce5dd46328184d43eabb1f7452eee5be0b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f617263685f6c696e75782e737667" width="120" hight="60"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="120" hight="60"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="120" hight="60"> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="120" hight="60"> &nbsp;
 
 
 </br>
@@ -119,12 +117,12 @@ Feel free to reach out to me about anything, be it to collab or just to hangout 
 
 
 <a href="mailto:v.harivarsha@gmail.com">
- <img align="left" width="114" hight="42" src="https://image.flaticon.com/icons/png/512/372/372392.png" />
+ <img align="left" width="84" hight="42" src="https://image.flaticon.com/icons/png/512/372/372392.png" />
 </a>
 
            
 <a href="https://www.linkedin.com/in/harivarshav/">
- <img align="left" width="114" hight="42" src="https://image.flaticon.com/icons/png/512/372/372399.png" />
+ <img align="left" width="84" hight="42" src="https://image.flaticon.com/icons/png/512/372/372399.png" />
 </a>
 
 </br>   </br>
@@ -132,11 +130,11 @@ Feel free to reach out to me about anything, be it to collab or just to hangout 
 </br>   </br>
 
 <a href="https://twitter.com/HariiUzumaki">
- <img align="left" width="114" hight="42" src="https://image.flaticon.com/icons/png/512/372/372412.png" />
+ <img align="left" width="84" hight="42" src="https://image.flaticon.com/icons/png/512/372/372412.png" />
 </a>
 
 <a href="https://www.instagram.com/hunterxharii/">
- <img align="left" width="114" hight="42" src="https://image.flaticon.com/icons/png/512/372/372395.png" />
+ <img align="left" width="84" hight="42" src="https://image.flaticon.com/icons/png/512/372/372395.png" />
 </a>
 
 
