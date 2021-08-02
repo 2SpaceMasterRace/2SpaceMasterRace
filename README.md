@@ -129,7 +129,7 @@ Feel free to reach out to me about anything, be it to collab or just to hangout 
 
 </br>   </br>
 
-<a href="https://twitter.com/HariiUzumaki">
+<a href="https://twitter.com/vforvenice">
  <img align="left" width="84" hight="42" src="https://image.flaticon.com/icons/png/512/372/372412.png" />
 </a>
 
