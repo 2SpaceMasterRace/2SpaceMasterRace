@@ -1,5 +1,6 @@
 ### Welcome !  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/knyTEfDR9Bi341uzJz/giphy.gif">
 </div>
@@ -9,13 +10,13 @@
 </br>
 
 
-
 **2SpaceMasterRace** *( also known as Harii )* is a Student of Electrical and Computer Engineering *@* **Amrita Vishwa Vidyapeetham**
 
 As an Aspiring Creative Developer 🚀, I'm on the journey of finding my place in that warm, uncanny, funky world between design and development. To find the *ithaka* where the most fun, creative, boundary-breaking magic happens 
 
-Make yourself at home, nothing much to see here *( I consider this as an art piece , so feel free to look at it as long as you wantt )*  as it's under constant construction but hey, *Mi casa es tu casa* 
+Make yourself at home, nothing much to see here *( I consider this as contemporary art , so feel free to look at it as long as you wantt )*  as it's under constant construction but hey, *Mi casa es tu casa* 
 </br>
+
 
 # About Me  :
 
@@ -36,21 +37,17 @@ Make yourself at home, nothing much to see here *( I consider this as an art pie
 
 - Practicing solving challenges on HackerRank such as 30 days of code and watching the lectures of ipc camp by codechef to get into competitive programming
 
+( My plans have changed tenfold so tis is for placeholder, update coming soon ;) )
 
 
 </br>
 
 
 
-
-
 ## 🤺 Hobbies :
 
 
-
-
 <img hight="400" width="600" alt="GIF" align="right" src="https://media.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif">
-
 
 
       🏃 weight training 
@@ -58,17 +55,14 @@ Make yourself at home, nothing much to see here *( I consider this as an art pie
 </br>
 
 
-
       🛫 discovery flights
 
 </br>
 
 
-
       🌊 kayaking 
 
 </br>
-
 
 
       🥾 urban exploration 
@@ -77,18 +71,17 @@ Make yourself at home, nothing much to see here *( I consider this as an art pie
 </br>
 
 
-
       🎷 saxophone 
 
 
 </br>
 
 
-
       🥞 cooking
 
 
 </br>
+
 
 
 ## 🏋️ skills :   
@@ -113,73 +106,40 @@ Make yourself at home, nothing much to see here *( I consider this as an art pie
 </br>
 
 
+
 # Contact Me  :
 
 <img hight="400" width="600" alt="GIF" align="right" src="https://media.giphy.com/media/Cap58iuoIbLL3ae6AW/giphy.gif">
 
 </br>
 
-
-
-Feel free to reach out to me about anything, be it to collab or just to hangout or want to help you with anything 🥂
-
-
-
+Feel free to reach out to me about anything, be it to collab or just to hangout or even want a extra hand help you with anything 🥂
 
 </br>
 
 
 <a href="mailto:v.harivarsha@gmail.com">
- <img align="left" width="64" hight="32" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />
+ <img align="left" width="114" hight="42" src="https://image.flaticon.com/icons/png/512/372/372392.png" />
 </a>
 
-
-
-
+           
 <a href="https://www.linkedin.com/in/harivarshav/">
- <img align="left" width="64" hight="32" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621157674~hmac=76404da95bd3114f493e35961f7ff0c6" />
+ <img align="left" width="114" hight="42" src="https://image.flaticon.com/icons/png/512/372/372399.png" />
 </a>
-
-
-
-
-
-<a href="https://discordapp.com/users/4639">
- <img align="left" width="64" hight="32" src="https://img-premium.flaticon.com/png/512/2111/2111370.png?token=exp=1621158170~hmac=d46cdb5066be9c8129bdced4621ae61d" />
-</a>
-
-
-
-
-
-<a href="https://www.instagram.com/hunterxharii/">
- <img align="left" width="64" hight="32" src="https://img-premium.flaticon.com/png/512/2111/2111463.png?token=exp=1621157400~hmac=d3a5f7fd9ea85c76abc4892511f5e4c7" />
-</a>
-
 
 </br>   </br>
 
 </br>   </br>
-
-
-<a href="https://www.reddit.com/user/idlipodii">
- <img align="left" width="64" hight="32" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" />
-</a>
 
 <a href="https://twitter.com/HariiUzumaki">
- <img align="left" width="64" hight="32" src="https://img-premium.flaticon.com/png/512/733/733579.png?token=exp=1621158062~hmac=205484319e4923bf167ecbea8c6f03fe" />
+ <img align="left" width="114" hight="42" src="https://image.flaticon.com/icons/png/512/372/372412.png" />
 </a>
 
-<a href="https://t.me/idlipodi">
- <img align="left" width="64" hight="32" src="https://img-premium.flaticon.com/png/512/2111/2111646.png?token=exp=1621158683~hmac=b9aab3bcbc14a42c6f35129516d159aa" />
+<a href="https://www.instagram.com/hunterxharii/">
+ <img align="left" width="114" hight="42" src="https://image.flaticon.com/icons/png/512/372/372395.png" />
 </a>
 
-<a href="https://www.twitch.tv/hariuchiha">
- <img align="left" width="64" hight="32" src="https://img-premium.flaticon.com/png/512/2111/2111668.png?token=exp=1621160109~hmac=72c404c440153084b3919ec8aa337039" />
-</a>
 
 </br>
 </br>
 </br>
-
-
