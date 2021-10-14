@@ -133,7 +133,7 @@ Feel free to reach out to me about anything, be it to collab or just to hangout 
  <img align="left" width="84" hight="42" src="https://image.flaticon.com/icons/png/512/372/372412.png" />
 </a>
 
-<a href="https://www.instagram.com/hunterxharii/">
+<a href="https://www.instagram.com/chettarendutea/">
  <img align="left" width="84" hight="42" src="https://image.flaticon.com/icons/png/512/372/372395.png" />
 </a>
 
