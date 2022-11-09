@@ -1,42 +1,10 @@
 ### About Me  :
 
-2SpaceMasterRace *( a.k.a Hari )* is a student of Electrical and Computer Engineering *@* **Amrita Vishwa Vidyapeetham**
-
-As an Aspiring Creative Developer 🚀, I'm on the journey of finding my place in that warm, uncanny, funky world between design and development. To find the *ithaka* where the most fun, creative, boundary-breaking magic happens 
-
-Make yourself at home, nothing much to see here *( I consider this as contemporary art , so feel free to look at it as long as you wantt )*  as it's under constant construction but hey, *Mi casa es tu casa* 
-</br>
+Currently pursuing Electrical and Computer Engineering *@* **Amrita Vishwa Vidyapeetham** and exploring art, mathematics, electrical and software engineering full-time diving head first into assimilating my passions with work.
 
 
-## 🤺 Hobbies :
+As an Aspiring Creative Developer 🚀 & System Engineer 🐱‍💻, I'm on the journey of finding my place in that warm, uncanny, funky world between graphics and code. I build highly performant beauitful projects spending nights and weekends to ensure perfection. 
 
 
-<img hight="400" width="600" alt="GIF" align="right" src="https://media.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif">
-
-
-      🏃 weight training 
-
-</br>
-
-
-      🛫 discovery flights
-
-</br>
-
-
-      🌊 kayaking 
-
-</br>
-
-
-      🥾 urban exploration 
-
-
-
-</br>
-
-
-      🥞 cooking
-
-
+Available August 2023.
 </br>
