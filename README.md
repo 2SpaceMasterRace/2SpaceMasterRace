@@ -1,5 +1,7 @@
 ### About Me  :
 
-currently pursuing electrical and computer engineering *@* **amrita vishwa vidyapeetham** exploring computer science, art, mathematics, and electrical engineering.
+Aspiring creative developer and renegade computer scientist striving to assimilate computer systems, interactive design, and mathematics to create radical new tech that makes the world a better place to live. 
 
-available september 2024.
+As a maker and hacker, I build and launch new projects spending nights and weekends exploring the depths of my interests ranging from compilers to distributed systems and having uncanny adventures with functional programming.
+
+Based on Bengaluru, Karnataka. Available September 2025.
